@@ -1,6 +1,7 @@
 # Deep Learning Nanodegree
 
 After the 3.5 months spent for Phase 1 which is a Challenge Course for the AI Track, the most awaited announcements of candidates continuing to phase 2 has arrived. This is a huge thanks to Udacity and Bertelsmann for giving me another opportunity to continue learning AI, specifically Deep Learning. 
+
 ![Scholarship Email](/assets/email_DLND.png)
 
 Along with the announcements of scholarships came our awards from Phase 1 via Palak Sidani of Udacity. 
