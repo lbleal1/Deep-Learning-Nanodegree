@@ -20,7 +20,7 @@ To keep track and to practice the daily habit of impproving my skils, I would be
 - [x] Lesson 5: Matrix Math and NumPy Refresher
 
 ### :white_check_mark: Part 2: Neural Networks
-- [ ] Lesson 1: Introduction to Neural Networks
+- [x] Lesson 1: Introduction to Neural Networks
 - [ ] Lesson 2: Implementing Gradient Descent
 - [ ] Lesson 3: Training Neural Networks
 - [ ] Lesson 4: GPU Workspaces Demo
