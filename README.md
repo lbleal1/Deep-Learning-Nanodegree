@@ -8,7 +8,8 @@ Along with the announcements of scholarships came our awards from Phase 1 via Pa
 ![You Rock Cert](/assets/Udacity_YouRock.jpg)
 ![You Rock Photo](/assets/imgonline-com-ua-Piconpic-9RqbydQ071.jpg)
 
-To keep track and to practice the daily habit of impproving my skils, I would be using this along with other things to do the #100DaysOfCode challenge in twitter. See here: https://twitter.com/lbleal1
+Finished the Nanodegree last August 5, 2020!
+![Cert](/assets/cert.png)
 
 ## Core Curriculum
 
@@ -19,11 +20,46 @@ To keep track and to practice the daily habit of impproving my skils, I would be
 - [x] Lesson 4: Jupyter Notebooks
 - [x] Lesson 5: Matrix Math and NumPy Refresher
 
-### :white_check_mark: Part 2: Neural Networks
+### :heavy_check_mark: Part 2: Neural Networks
 - [x] Lesson 1: Introduction to Neural Networks
-- [ ] Lesson 2: Implementing Gradient Descent
-- [ ] Lesson 3: Training Neural Networks
-- [ ] Lesson 4: GPU Workspaces Demo
-- [ ] Project: Predicting Bike-Sharing Patterns
-- [ ] Lesson 6: Sentiment Analysis
-- [ ] Lesson 7: Deep Learning with PyTorch
+- [x] Lesson 2: Implementing Gradient Descent
+- [x] Lesson 3: Training Neural Networks
+- [x] Lesson 4: GPU Workspaces Demo
+- [x] Project: Predicting Bike-Sharing Patterns
+- [x] Lesson 6: Sentiment Analysis
+- [x] Lesson 7: Deep Learning with PyTorch
+
+### :heavy_check_mark: Part 3: Convolutional Neural Networks
+- [x] Lesson 1: Convolutional Neural Network
+- [x] Lesson 2: Cloud Computing
+- [x] Lesson 3: Transfer Learning
+- [x] Lesson 4: Weight Initialization
+- [x] Lesson 5: Autoencoders
+- [x] Lesson 6: Style Transfer
+- [x] Project: Dog-Breed Classifier
+- [x] Lesson 7: Deep Learning in Cancer Detection
+
+### :heavy_check_mark: Part 4: Recurrent Neural Networks
+- [x] Lesson 1: Recurrent Neuralnetworks
+- [x] Lesson 2: Long Short-Term Memory Networks (LSTMs)
+- [x] Lesson 3: Implementation of RNN and LSTM
+- [x] Lesson 4: Hyperparameters
+- [x] Lesson 5: Embeddings & Word2Vec
+- [x] Lesson 6: Sentiment Prediction RNN
+- [x] Project: Generate TV Scripts
+- [x] Lesson 7: Attention
+
+### :heavy_check_mark: Part 5: Generative Adversarial Networks
+- [x] Lesson 1: Generative Adversarial Networks
+- [x] Lesson 2: Deep Convolutional GANs
+- [x] Lesson 3: Pix2Pix & CycleGAN
+- [x] Lesson 4: Implementing a CycleGAN
+- [x] Project: Generate Faces
+
+### :heavy_check_mark: Part 6: Deploying a Model
+- [x] Lesson 1: Introduction to Deployment
+- [x] Lesson 2: Building a Model using SageMaker
+- [x] Lesson 3: Deploying and Using a Model
+- [x] Lesson 4: Hyperparameter Tuning
+- [x] Project: Deploying a Sentiment Analysis Model
+
